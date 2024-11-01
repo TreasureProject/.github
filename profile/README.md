@@ -3,4 +3,4 @@ Treasure is the decentralized game console. We are building a new entertainment 
 
 Since launching in September 2021, Treasure has become home to over 15+ games and counting to emerge as one of the leading gaming ecosystems in web3. 
 
-Some of our games include: [The Beacon](https://app.treasure.lol/games/the-beacon), [Smolbound](https://app.treasure.lol/games/smolbound), [Zeeverse](https://app.treasure.lol/games/zeeverse), [Synergy Land](https://app.treasure.lol/games/synergy-land), [Knights of the Ether](https://app.treasure.lol/games/kote), and more! [See them all here](https://app.treasure.lol/games).
+Some of our games include: [The Beacon](https://app.treasure.lol/games/the-beacon), [Smolbound](https://app.treasure.lol/games/smolbound), [Zeeverse](https://app.treasure.lol/games/zeeverse), [Synergy Land](https://app.treasure.lol/games/synergy-land), [Knights of the Ether](https://app.treasure.lol/games/kote), [Wanderers](https://app.treasure.lol/games/wanderers), and more! [See them all here](https://app.treasure.lol/games).
